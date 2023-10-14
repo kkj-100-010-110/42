@@ -18,4 +18,3 @@ ft_irc
 ft_transcendence  
 
 ## NOTE
-Not apply 42 standard(Norminette, C++ standards, allowed functions, etc.)
